@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="o2o:war" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f27538c-ca99-41e1-91e2-8398589d509e" name="Default Changelist" comment="" />
+    <list default="true" id="bbbbe03d-1126-49b7-bc80-ab2937d070ea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Qv4WmyYq0EaRhWv16MTul0QPGq" />
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1QvJeuw17qjVoyRBP6pIkKRlHcQ" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,17 +39,17 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/o2o/" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/o2o_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <file path="$PROJECT_DIR$">
+        <artifact name="o2o:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/o2o" />
+            <option name="CONTEXT_PATH" value="/o2o_war" />
           </settings>
-        </file>
+        </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_o2o" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_o2o_2" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -49,7 +57,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="61816" />
+        <option name="DEBUG_PORT" value="50854" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -98,6 +106,9 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="o2o:war" />
+        </option>
       </method>
     </configuration>
   </component>
@@ -106,12 +117,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7f27538c-ca99-41e1-91e2-8398589d509e" name="Default Changelist" comment="" />
-      <created>1568637769495</created>
+      <changelist id="bbbbe03d-1126-49b7-bc80-ab2937d070ea" name="Default Changelist" comment="" />
+      <created>1568685456514</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568637769495</updated>
-      <workItem from="1568637772550" duration="258000" />
+      <updated>1568685456514</updated>
+      <workItem from="1568685468881" duration="1478000" />
     </task>
     <servers />
   </component>
