@@ -6,12 +6,35 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbbbe03d-1126-49b7-bc80-ab2937d070ea" name="Default Changelist" comment="" />
+    <list default="true" id="bbbbe03d-1126-49b7-bc80-ab2937d070ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/HeadLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/LocalAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/PersonInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/ProductImg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/ShopCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/WechatAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/o2o.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/o2o/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -24,11 +47,31 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1QvJeuw17qjVoyRBP6pIkKRlHcQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src.maven.java/com/imooc/o2o/entity" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Work_For_University\校园商铺实践\git_o2o\以SSM架构构建项目\o2o" />
+      <recent name="F:\Work_For_University\校园商铺实践\git_o2o\以SSM架构构建项目\o2o\src\main" />
+      <recent name="F:\Work_For_University\校园商铺实践\git_o2o\以SSM架构构建项目\o2o\src.maven.java\com\imooc\o2o\entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Work_For_University\校园商铺实践\git_o2o\以SSM架构构建项目\o2o\src.maven.java\com\imooc\o2o\entity" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,10 +171,30 @@
       <option name="presentableId" value="Default" />
       <updated>1568685456514</updated>
       <workItem from="1568685468881" duration="1478000" />
+      <workItem from="1568687177523" duration="1682000" />
+      <workItem from="1568703886693" duration="2080000" />
+      <workItem from="1568807563348" duration="3671000" />
+      <workItem from="1568962101754" duration="1346000" />
+      <workItem from="1568965366486" duration="5542000" />
+      <workItem from="1569036113412" duration="3495000" />
+      <workItem from="1569124791763" duration="1248000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
